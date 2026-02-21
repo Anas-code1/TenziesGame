@@ -1,6 +1,5 @@
 {
-  "name": "Scrim-s06j04g",
-  "description": "https://scrimba.com/learn-react-c0e/~02si",
+  "name": "tenzies-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
